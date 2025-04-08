@@ -1,3 +1,13 @@
 body{
-    background-color: blueviolet;
+    background-color: rgba(226, 43, 217, 0.5);
+}
+
+h1{
+    color:hotpink;
+    border:double;
+}
+
+.título{
+    color:aliceblue;
+    text-align:center;
 }
