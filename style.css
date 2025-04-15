@@ -11,3 +11,12 @@ h1{
     color:aliceblue;
     text-align:center;
 }
+button{
+color: honeydew;
+font: size 50px;
+}
+
+.imagem-uniiii{
+    color: rgb(255, 255, 255);
+  border: double;  
+}
